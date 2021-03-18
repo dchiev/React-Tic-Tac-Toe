@@ -4,6 +4,7 @@
 
 ## Overview
 
+Deployed Application: https://ttc-react.herokuapp.com/
 React tic tac toe game with hooks
 
 ## Table of Contents
